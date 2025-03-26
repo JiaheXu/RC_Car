@@ -13,5 +13,6 @@ https://github.com/JiaheXu/drivers
 ## custom motor driver (changed for canbus cmds) flashed the vesc if you start from scratch
 https://github.com/JiaheXu/bldc
 
+## structure
 Data flow: joystick driver (joy_cmd) -> driver(mmpug_vesc_interface) send canbus cmd through 'cansend' -> motor
 
